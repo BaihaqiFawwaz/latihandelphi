@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/27 19.00.00.000.599,=C:\Users\asus\Videos\praktikumPt2\Unit2.pas</Transaction>
+    <Transaction>2023/05/27 20.00.00.000.480,C:\Users\asus\Videos\praktikumPt2\Unit2.dfm=C:\Users\asus\Videos\praktikumPt2\U_praktikum3.dfm</Transaction>
+    <Transaction>2023/05/27 20.00.00.000.480,C:\Users\asus\Videos\praktikumPt2\Unit2.pas=C:\Users\asus\Videos\praktikumPt2\U_praktikum3.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/27 19.00.00.000.599,=C:\Users\asus\Videos\praktikumPt2\Unit2.pas</Transaction>
+    <Transaction>2023/05/27 20.00.00.000.727,=C:\Users\asus\Videos\praktikumPt2\Unit3.pas</Transaction>
+    <Transaction>2023/05/27 20.00.00.000.480,C:\Users\asus\Videos\praktikumPt2\U_praktikum3.pas=C:\Users\asus\Videos\praktikumPt2\Unit2.pas</Transaction>
+    <Transaction>2023/05/27 20.00.00.000.325,C:\Users\asus\Videos\praktikumPt2\P_pertemuan3.dproj=C:\Users\asus\Videos\praktikumPt2\P_pertemuan2.dproj</Transaction>
+    <Transaction>2023/05/27 20.00.00.000.480,C:\Users\asus\Videos\praktikumPt2\U_praktikum3.dfm=C:\Users\asus\Videos\praktikumPt2\Unit2.dfm</Transaction>
+    <Transaction>2023/05/27 21.00.00.000.606,C:\Users\asus\Videos\praktikumPt2\P_pertemuan4.dproj=C:\Users\asus\Videos\praktikumPt2\P_pertemuan5.dproj</Transaction>
+    <Transaction>2023/05/27 21.00.00.000.526,C:\Users\asus\Videos\praktikumPt2\P_pertemuan3.dproj=C:\Users\asus\Videos\praktikumPt2\P_pertemuan4.dproj</Transaction>
+    <Transaction>2023/05/27 21.00.00.000.357,C:\Users\asus\Videos\praktikumPt2\Unit3.pas=C:\Users\asus\Videos\praktikumPt2\U_praktikum4.pas</Transaction>
+    <Transaction>2023/05/27 21.00.00.000.847,C:\Users\asus\Videos\praktikumPt2\Unit4.dfm=C:\Users\asus\Videos\praktikumPt2\U_praktikum5.dfm</Transaction>
+    <Transaction>2023/05/27 21.00.00.000.218,=C:\Users\asus\Videos\praktikumPt2\Unit4.pas</Transaction>
+    <Transaction>2023/05/27 21.00.00.000.847,C:\Users\asus\Videos\praktikumPt2\Unit4.pas=C:\Users\asus\Videos\praktikumPt2\U_praktikum5.pas</Transaction>
+    <Transaction>2023/05/27 21.00.00.000.357,C:\Users\asus\Videos\praktikumPt2\Unit3.dfm=C:\Users\asus\Videos\praktikumPt2\U_praktikum4.dfm</Transaction>
+    <Transaction>2023/06/03 19.48.33.373,=C:\Users\asus\Videos\praktikumPt2\Unit5.pas</Transaction>
+    <Transaction>2023/06/03 20.02.58.130,C:\Users\asus\Videos\praktikumPt2\U_1pertemuan3.pas=C:\Users\asus\Videos\praktikumPt2\Unit5.pas</Transaction>
+    <Transaction>2023/06/03 20.02.58.130,C:\Users\asus\Videos\praktikumPt2\U_1pertemuan3.dfm=C:\Users\asus\Videos\praktikumPt2\Unit5.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
